@@ -1,0 +1,40 @@
+_repo: O-Infante-D.-Henrique-e-a-arte-de-navegar-dos-portuguezes_24533
+_version: 0.1.0
+alternative_title: O Infante D. Henrique e a arte de navegar dos portugueses
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eça, Vicente de Almeida de
+    alias: Eca, Vicente de Almeida de
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '24882'
+    url: http://www.gutenberg.org/2009/agents/24882
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2008-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24533'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nImprensa Nacional\r\n1894"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Explorers'
+- !lcsh 'Portugal -- History'
+- !lcsh 'Henry, Infante of Portugal, 1394-1460'
+- !lcsh 'Navigation'
+- !lcc 'CT'
+- !lcc 'DP'
+- !lcsh 'Biography'
+title: O Infante D. Henrique e a arte de navegar dos portuguezes
+url: http://www.gutenberg.org/ebooks/24533
